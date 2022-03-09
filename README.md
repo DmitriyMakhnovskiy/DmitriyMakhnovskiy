@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DmitriyMakhnovskiy
-- 👀 I’m interested in lab automation projects
+- 👀 I’m interested in lab automation projects and numerical methods
 - 🌱 I’m currently learning Python, Node-Red, and MQTT
 - 💞️ I’m looking to collaborate on lab automation project in Europe and China
 - 📫 How to reach me: dmitriy.makhnovskiy@gmail.com
