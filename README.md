@@ -6,7 +6,7 @@ Hi there! I'm **Dmitriy Makhnovskiy**, a dedicated professional passionate about
 
 ## 👀 Interests
 - 🧪 **Lab Automation**: Streamlining processes and enhancing efficiency in research and development.
-- 🌍 **R&D Projects**: Exploring cutting-edge ideas in **Europe** and **China**.
+- 🌍 **R&D Projects**: Exploring cutting-edge ideas.
 - 🤖 **Technology Enthusiast**: Diving into the realms of **IoT**, **embedded systems**, and innovative tools.
 
 ---
@@ -24,7 +24,7 @@ I believe in lifelong learning! My current focus includes:
 I am excited to collaborate on:
 - Innovative **lab automation** projects.
 - Creative **R&D initiatives** across diverse industries.
-- Building partnerships within **Europe** and **China**.
+- Building partnerships within **West** and **East**.
 
 If you have an exciting idea or project, let’s connect!
 
